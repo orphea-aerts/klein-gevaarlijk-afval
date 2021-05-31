@@ -7,3 +7,45 @@ layout: page
 <a href="/students/"
   ><img src="/images/poster-kruis.jpg" alt="Poster van het kruis"
 /></a>
+
+<button id="removeAllPopups" onclick="removeAllPopups()">
+  Verwijder popups
+</button>
+
+<script>
+  let popupCount = 0;
+
+  function closePopup(button) {
+    const popup = button.parentElement;
+    document.body.removeChild(popup);
+  }
+
+  function createPopup() {
+    const popupLeft = Math.random() * window.innerWidth - 500;
+    const popupTop = Math.random() * window.innerHeight - 100;
+    const popupCount = 2;
+    const popupNumber = Math.floor(Math.random() * popupCount) + 1;
+
+    html = `<div class="popup" style="left: ${popupLeft}px; top: ${popupTop}px">
+  <button class="popup-close" onclick="closePopup(this)"></button>
+  <img src="./popup/popup-${popupNumber}.png" />
+</div>`;
+    document.body.innerHTML += html;
+  }
+
+  function maybeCreatePopup() {
+    if (popupCount > 20) return;
+    createPopup();
+    popupCount += 1;
+  }
+
+  setInterval(maybeCreatePopup, 100);
+
+  function removeAllPopups() {
+    popupCount = 1000;
+    const popups = Array.from(document.querySelectorAll(".popup"));
+    for (const popup of popups) {
+      document.body.removeChild(popup);
+    }
+  }
+</script>
