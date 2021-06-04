@@ -2,13 +2,13 @@
 title: Lotte Vandenbussche
 thumb_image: /images/site.jpg
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ thumb_image: /images/site.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="276">
@@ -307,9 +307,9 @@ thumb_image: /images/site.jpg
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
 table.MsoNormalTable
@@ -331,14 +331,22 @@ table.MsoNormalTable
 	mso-hansi-theme-font:minor-latin;
 	mso-ansi-language:EN-GB;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
-ik ben Lotte Vandenbussche, 22 jaar en ik hou van lachen, dansen, concertjes, musea en theater maar vooral ook van schilderen.
+Lotte Vandenbussche, 22 jaar oud, Antwerpen
 
-Er zijn twee hoofdzaken die erg belangrijk zijn voor mij tijdens het schilderen, en die ik graag zou delen aan de hand van mijn werk. In de eerste plaats mijn inspiratiebron, de mens. Wat ik vooral heel boeiend vind hieraan is de dualiteit tussen het groepsgevoel en zijn individualiteit. Een ander persoon schilderen is ook mijn manier om me te verplaatsen in andere mensen. Ik probeer ook te schilderen onder verschillende emoties, om zo mezelf en anderen beter te begrijpen.
+In mijn artistieke praktijk speelt schilderkunst de belangrijkste rol omdat ik zo, op een tactiele manier mijn gedachten kan verbeelden. Voor mij is schilderkunst mijn manier van emoties uiten. Ik maak ook de bewuste keuze om mijn werk weinig tot nooit te verklaren, net omdat deze zo persoonlijk en temporair zijn, met temporair bedoel ik dat de emotie die ik gebruik om te schilderen, vaak oppervlakkig zijn en komen uit korte momentopnamen.
 
-Mijn andere boodschap is de kracht van imperfectie tonen. Er is geen correcte manier van schilderen, ook niet voor mijzelf specifiek. Dat betekent dat het experiment altijd het meest belangrijke aspect in het creëren van werk gaat zijn. Tenzij ik een reeks maak, is mijn aanpak en opbouw ook bij elk werk anders. Op technisch vlak, probeer ik toch altijd iets te doen wat ik nog niet gedaan heb, dit kan een klein detail zijn dat tot groter resultaat leidt, of niet.  Ik probeer altijd mijn fouten en toevalligheden te omarmen.
+Mijn werkproces begint bij het beslissen over een onderwerp, wat voor mij vaak een niet al te doordachte keuze is. Ik vertrek altijd vanuit beelden die me louter visueel aanspreken. Al omvatten deze beelden toevallig bijna altijd mijn grootste fascinatie, de mens. Wat ik vooral heel boeiend vind hieraan is de dualiteit tussen het groepsgevoel en zijn individualiteit. Wij, die zo een grote capaciteit aan medeleven en compassie bezitten zijn eveneens ook zo egoïstisch. Dat is zeker iets wat regelmatig benoemd word in mijn werk.
+
+Mijn schilderproces is chaotisch en impulsief. Ik maak nauwelijks voorstudies omdat spontaniteit heel belangrijk is voor mij, en deze valt weg wanneer je hetzelfde beeld vaak herhaalt. Ik werk regelmatig, en ondertussen graag, in een rommelige en chaotische omgeving, met veel geluiden en andere prikkels. Daarom staat tijdens mijn proces ook altijd muziek of een tv-scherm aan. Ik schilder ook vaak staand, dus in het proces beweeg ik heel veel. Wanneer deze bewegingen dan worden beïnvloed door deze externe factoren veranderd dit merkbaar niet alleen mijn schriftuur, maar ook mijn compositie, kleurgebruik, lichtwerking, etc.
+
+Wat ik graag zou bereiken met mijn werk is dat er bij de toeschouwer, zonder enige beïnvloedbare achter informatie eigen persoonlijke gevoelens loskomen. Dat de emoties van één individu, vergelijkbare of totaal andere emoties kunnen opwekken bij een ander individu. Dat het werk een verbintenis weet te maken tussen mensen.
+
+
+
+![(70 x 100 cm) acryl op doek](/images/lotte-in-zes.jpg "Lotteinzesdekwadraad")
 
 <!--EndFragment-->
