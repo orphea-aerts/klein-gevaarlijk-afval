@@ -2,13 +2,13 @@
 title: Lotte Vandenbussche
 thumb_image: /images/site.jpg
 ---
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ thumb_image: /images/site.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="276">
@@ -307,9 +307,9 @@ thumb_image: /images/site.jpg
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
 table.MsoNormalTable
@@ -331,7 +331,7 @@ table.MsoNormalTable
 	mso-hansi-theme-font:minor-latin;
 	mso-ansi-language:EN-GB;}
 </style>
-<!\\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -346,6 +346,8 @@ Mijn schilderproces is chaotisch en impulsief. Ik maak nauwelijks voorstudies om
 Wat ik graag zou bereiken met mijn werk is dat er bij de toeschouwer, zonder enige beïnvloedbare achter informatie eigen persoonlijke gevoelens loskomen. Dat de emoties van één individu, vergelijkbare of totaal andere emoties kunnen opwekken bij een ander individu. Dat het werk een verbintenis weet te maken tussen mensen.
 
 
+
+vandenbusschelotte@gmail.com - ig: Lotteinkwadraad
 
 ![(70 x 100 cm) acryl op doek](/images/lotte-in-zes.jpg "Lotteinzesdekwadraad")
 
