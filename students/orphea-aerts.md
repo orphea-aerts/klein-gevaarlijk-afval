@@ -1,6 +1,6 @@
 ---
 title: orphea aerts
-thumb_image: /images/i01_website_tn_orphea3.png
+thumb_image: /images/cd-cover-foto-.jpg
 ---
 Terwijl we overspoeld worden met al deze digitale intelligentie voel ik me aangetrokken tot de eenvoudige technologie. Ik ben door deze minder geavanceerde technieken gefascineerd omdat ze zo rechtdoorzee zijn. De toestellen converteren elektrische energie naar een andere vorm van energie zoals beweging, licht of geluid.
 
