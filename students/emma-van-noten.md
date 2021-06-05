@@ -1,5 +1,5 @@
 ---
-title: Emma Van Noten
+title: Emma van Noten
 thumb_image: /images/website_tn_emma-1-.jpg
 ---
 ![](/images/img_20210128_151243.jpg)
