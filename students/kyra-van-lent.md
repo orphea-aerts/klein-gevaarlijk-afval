@@ -1,5 +1,5 @@
 ---
-title: Kyra Van Lent
+title: Kyra van Lent
 thumb_image: /images/collage-2021-2-.jpg
 ---
 <!--StartFragment-->

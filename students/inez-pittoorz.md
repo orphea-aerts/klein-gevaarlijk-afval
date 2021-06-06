@@ -1,5 +1,5 @@
 ---
-title: Inez Pittoors
+title: Inez PIttoors
 thumb_image: /images/op-maat-gemaakte-afmetingen-600x600-px.jpeg
 ---
 <!--StartFragment-->

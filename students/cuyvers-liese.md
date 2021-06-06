@@ -1,5 +1,5 @@
 ---
-title: Liese Cuyvers
+title: LIese Cuyvers
 thumb_image: /images/thumbnail-2.jpg
 ---
 <!--\[if gte mso 9]><xml>

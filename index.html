@@ -8,7 +8,7 @@ layout: page
 /></a>
 
 <button id="removeAllPopups" onclick="removeAllPopups()">
-  Verwijder popups
+  Close all
 </button>
 
 <script>
@@ -22,7 +22,7 @@ layout: page
   function createPopup() {
     const popupLeft = Math.random() * window.innerWidth - 500;
     const popupTop = Math.random() * window.innerHeight - 100;
-    const popupCount = 9;
+    const popupCount = 16;
     const popupNumber = Math.floor(Math.random() * popupCount) + 1;
 
     html = `<div class="popup" style="left: ${popupLeft}px; top: ${popupTop}px">
