@@ -4,7 +4,7 @@ layout: page
 
 <a href="/students/"><img src="/images/cropped-poster.jpg" alt="Poster van het kruis" /></a>
 
-<button id="removeAllPuppys" onclick="removeAllPuppys()">Close all</button>
+<button id="removeAllPuppies" onclick="removeAllPuppies()">Close all</button>
 
 <script>
   let puppyCount = 0;
@@ -22,7 +22,7 @@ layout: page
 
     html = `<div class="puppy" style="left: ${puppyLeft}px; top: ${puppyTop}px">
   <button class="puppy-close" onclick="closePuppy(this)"></button>
-  <img src="./puppy/puppy-${puppyNumber}.png" />
+  <img src="./puppies/puppy-${puppyNumber}.png" />
 </div>`;
     document.body.innerHTML += html;
   }
@@ -35,10 +35,10 @@ layout: page
 
   setInterval(maybeCreatePuppy, 100);
 
-  function removeAllPuppys() {
+  function removeAllPuppies() {
     puppyCount = 1000;
-    const puppys = Array.from(document.querySelectorAll(".puppy"));
-    for (const puppy of puppys) {
+    const puppies = Array.from(document.querySelectorAll(".puppy"));
+    for (const puppy of puppies) {
       document.body.removeChild(puppy);
     }
   }
