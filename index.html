@@ -2,49 +2,44 @@
 layout: page
 ---
 
+<a href="/students/"><img src="/images/cropped-poster.jpg" alt="Poster van het kruis" /></a>
 
-<a href="/students/"
-  ><img src="/images/cropped-poster.jpg" alt="Poster van het kruis"
-/></a>
-
-<button id="removeAllPopups" onclick="removeAllPopups()">
-  Close all
-</button>
+<button id="removeAllPuppys" onclick="removeAllPuppys()">Close all</button>
 
 <script>
-  let popupCount = 0;
+  let puppyCount = 0;
 
-  function closePopup(button) {
-    const popup = button.parentElement;
-    document.body.removeChild(popup);
+  function closePuppy(button) {
+    const puppy = button.parentElement;
+    document.body.removeChild(puppy);
   }
 
-  function createPopup() {
-    const popupLeft = Math.random() * window.innerWidth - 500;
-    const popupTop = Math.random() * window.innerHeight - 100;
-    const popupCount = 16;
-    const popupNumber = Math.floor(Math.random() * popupCount) + 1;
+  function createPuppy() {
+    const puppyLeft = Math.random() * window.innerWidth - 500;
+    const puppyTop = Math.random() * window.innerHeight - 100;
+    const puppyCount = 16;
+    const puppyNumber = Math.floor(Math.random() * puppyCount) + 1;
 
-    html = `<div class="popup" style="left: ${popupLeft}px; top: ${popupTop}px">
-  <button class="popup-close" onclick="closePopup(this)"></button>
-  <img src="./popup/popup-${popupNumber}.png" />
+    html = `<div class="puppy" style="left: ${puppyLeft}px; top: ${puppyTop}px">
+  <button class="puppy-close" onclick="closePuppy(this)"></button>
+  <img src="./puppy/puppy-${puppyNumber}.png" />
 </div>`;
     document.body.innerHTML += html;
   }
 
-  function maybeCreatePopup() {
-    if (popupCount > 20) return;
-    createPopup();
-    popupCount += 1;
+  function maybeCreatePuppy() {
+    if (puppyCount > 20) return;
+    createPuppy();
+    puppyCount += 1;
   }
 
-  setInterval(maybeCreatePopup, 100);
+  setInterval(maybeCreatePuppy, 100);
 
-  function removeAllPopups() {
-    popupCount = 1000;
-    const popups = Array.from(document.querySelectorAll(".popup"));
-    for (const popup of popups) {
-      document.body.removeChild(popup);
+  function removeAllPuppys() {
+    puppyCount = 1000;
+    const puppys = Array.from(document.querySelectorAll(".puppy"));
+    for (const puppy of puppys) {
+      document.body.removeChild(puppy);
     }
   }
 </script>
