@@ -1,5 +1,5 @@
 ---
 title: Josué Salazaku
-thumb_image: /images/i01_website_tn_orphea3.png
+thumb_image: /images/a.jpg
 ---
-/
+“I’m a wizard and I know it.” – **Kid Cudi**
