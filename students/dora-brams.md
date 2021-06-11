@@ -1,5 +1,5 @@
 ---
 title: Dora Brams
-thumb_image: /images/i01_website_tn_orphea3.png
+thumb_image: /images/a910_aa979-kopie.jpg
 ---
 /
