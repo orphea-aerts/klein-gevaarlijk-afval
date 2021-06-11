@@ -7,10 +7,6 @@ Kunst is voor mij een manier om mijn gedachten beter te kunnen articuleren en de
 "I hope they understand that I really understand\
 That they don't understand"-**Kid Cudi**
 
+IG: @JosueSeba
 
-
-
-
-**IG: @JosueSeba**
-
-**email: josueseba@hotmail.be**
+email: josueseba@hotmail.be
