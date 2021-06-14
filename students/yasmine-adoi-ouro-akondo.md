@@ -12,10 +12,40 @@ In her work, she is looking for a beacon of peace in our hectic lives where we o
 
 <!--EndFragment-->
 
-
-
 ![The amorphous human being   shows my personal visual translation on the absolute, reduced form of being and existence. It is the core of our entity. It is our raw form, untouched by influences of our created world (with that I mean: outside influences, created by an imposed structure. i.e. The unnatural.)  This core is cast in bronze, which gives value to the amorphous human being, to our soul, our basis of existence. This purest form, regardless of our physical death, will always exist.  By making it no larger than a middle finger, it is the perfect talisman as a precious relic that we can always carry with us, so that we may remember to remain faithful to our true selves, and remember that our current state of being is just ephemeral.](/images/dsc06960-3-.jpg "The amorphous human being")
+
+<!--StartFragment-->
+
+The amorphous human being
+
+... shows my personal visual translation on the absolute, reduced form of being and existence. It is the core of our entity. It is our raw form, untouched by influences of our created world (with that I mean: outside influences, created by an imposed structure. i.e. The unnatural.)
+
+This core is cast in bronze, which gives value to *the amorphous human being*, to our soul, our basis of existence. This purest form, regardless of our physical death, will always exist.
+
+By making it no larger than a middle finger, it is the perfect talisman as a precious relic that we can always carry with us, so that we may remember to remain faithful to our true selves, and remember that our current state of being is just ephemeral.
+
+(These are for sale. )
+
+<!--EndFragment-->
 
 ![](/images/dsc06148-4-.jpg)
 
+This installation was exibited in january 2021 in Factor 44. See it as a preview for my new instalation in the blikfabriek. Here I tried to interact with the visitors by making them take of there shoes and make them connect with the earth and them selves.
+
 ![A sneakpeak into my drawings and sketches.](/images/dsc06919-2-.jpg "Atelier")
+
+Here you have a smal sneakpeak into my drawings and sketches considering my current project.
+
+*
+*
+*
+*
+*
+
+*Contact:* 
+
+*Mail: yasmine.akondo@gmail.com*
+
+*Insta: The_house_of_mauss*
+
+*Website (upcomming): yasmine-akondo.be*
