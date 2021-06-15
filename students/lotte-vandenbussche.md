@@ -2,13 +2,13 @@
 title: Lotte Vandenbussche
 thumb_image: /images/pop.jpg
 ---
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -49,9 +49,9 @@ thumb_image: /images/pop.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 9]><xml>
+<!--\\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
   DefSemiHidden="true" DefQFormat="false" DefPriority="99"
   LatentStyleCount="276">
@@ -307,9 +307,9 @@ thumb_image: /images/pop.jpg
   <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
   <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
  </w:LatentStyles>
-</xml><!\\\\\[endif]-->
+</xml><!\\\\\\[endif]-->
 
-<!--\\\\\[if gte mso 10]>
+<!--\\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
 table.MsoNormalTable
@@ -331,15 +331,15 @@ table.MsoNormalTable
 	mso-hansi-theme-font:minor-latin;
 	mso-ansi-language:EN-GB;}
 </style>
-<!\\\\\[endif]-->
+<!\\\\\\[endif]-->
 
 <!--StartFragment-->
 
-#### L O T T E     V A N D E N B U S S C H E 
+#### L O T T E     V A N D E N B U S S C H E
 
 ###### *22 jaar, Antwerpen*
 
-##### vandenbusschelotte@gmail.com   -   ig: Lotteinkwadraad
+#### vandenbusschelotte@gmail.com   -   ig: Lotteinkwadraad
 
 ![](/images/img_20210119_172842.jpg)
 
