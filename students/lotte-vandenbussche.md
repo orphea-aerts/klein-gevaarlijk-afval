@@ -335,9 +335,11 @@ table.MsoNormalTable
 
 <!--StartFragment-->
 
-Lotte Vandenbussche, 22 jaar oud, Antwerpen
+#### L O T T E     V A N D E N B U S S C H E 
 
-vandenbusschelotte@gmail.com - ig: Lotteinkwadraad
+###### *22 jaar, Antwerpen*
+
+##### vandenbusschelotte@gmail.com   -   ig: Lotteinkwadraad
 
 ![](/images/img_20210119_172842.jpg)
 
