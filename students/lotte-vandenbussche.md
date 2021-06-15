@@ -345,8 +345,6 @@ table.MsoNormalTable
 
 In mijn artistieke praktijk speelt schilderkunst de belangrijkste rol omdat ik zo, op een tactiele manier mijn gedachten kan verbeelden. Voor mij is schilderkunst mijn manier van emoties uiten. Ik maak ook de bewuste keuze om mijn werk weinig tot nooit te verklaren, net omdat deze zo persoonlijk en temporair zijn, met temporair bedoel ik dat de emotie die ik gebruik om te schilderen, vaak oppervlakkig zijn en komen uit korte momentopnamen.
 
-Mijn werkproces begint bij het beslissen over een onderwerp, wat voor mij vaak een niet al te doordachte keuze is. Ik vertrek altijd vanuit beelden die me louter visueel aanspreken. Al omvatten deze beelden toevallig bijna altijd mijn grootste fascinatie, de mens. Wat ik vooral heel boeiend vind hieraan is de dualiteit tussen het groepsgevoel en zijn individualiteit. Wij, die zo een grote capaciteit aan medeleven en compassie bezitten zijn eveneens ook zo egoïstisch. Dat is zeker iets wat regelmatig benoemd word in mijn werk.
-
 ![](/images/crime-minister.jpg)
 
 Mijn schilderproces is chaotisch en impulsief. Ik maak nauwelijks voorstudies omdat spontaniteit heel belangrijk is voor mij, en deze valt weg wanneer je hetzelfde beeld vaak herhaalt. Ik werk regelmatig, en ondertussen graag, in een rommelige en chaotische omgeving, met veel geluiden en andere prikkels. Daarom staat tijdens mijn proces ook altijd muziek of een tv-scherm aan. Ik schilder ook vaak staand, dus in het proces beweeg ik heel veel. Wanneer deze bewegingen dan worden beïnvloed door deze externe factoren veranderd dit merkbaar niet alleen mijn schriftuur, maar ook mijn compositie, kleurgebruik, lichtwerking, etc.
