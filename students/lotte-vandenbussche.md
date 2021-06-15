@@ -1,6 +1,6 @@
 ---
 title: Lotte Vandenbussche
-thumb_image: /images/site.jpg
+thumb_image: /images/pop.jpg
 ---
 <!--\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
