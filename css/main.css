@@ -87,14 +87,17 @@ footer {
 .zijbalk {
   display: none;
   width: 300px;
+  font-size: 13px;
+  margin-right: 20px;
+  margin-top: 0px;
+}
+
+.zijbalk-inner {
   background-color: #ede8e8;
   border: 2px solid #ff6841;
-  font-size: 13px;
   padding: 5px;
   padding-left: 20px;
   padding-right: 20px;
-  margin-right: 20px;
-  margin-top: 0px;
 }
 
 .puppy {
